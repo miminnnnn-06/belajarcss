@@ -1,0 +1,48 @@
+h1{
+    color: deeppink;
+    background-color: black;
+    text-align: center;
+}
+p{
+    color: rgb(241, 0, 48);
+    background-color: rgb(19, 116, 201);
+
+}
+#walidnakdewiboleh{
+    color: #000;
+background-color: deeppink;
+}
+.warnasatu {
+    color: blue;
+    background-color: cadetblue;
+}
+.warnadua{
+ color: chocolate;
+ background-color: hotpink;
+
+}
+.warnatiga{
+    color: rgb(10, 14, 15);
+    background-color: rgb(204, 245, 23);
+}
+#kotak-satu{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(235, 202, 202, 0.952);
+    border-radius: 70px;
+    mar
+}
+#kotak-dua{
+    height: 200px;
+    width: 500px;
+    background-color
+    border-radius: 50px 0;
+    
+}
+#kotak-tiga{
+    height: 200px;
+    width: 500px;
+    background-color: rgb(255, 30, 0);
+    border-radius: 50%;
+    margin-bottom: 30;
+}
