@@ -46,3 +46,29 @@ background-color: deeppink;
     border-radius: 50%;
     margin-bottom: 30;
 }
+#biking{
+width:500px;
+height:200px;
+background-color: crimson;
+color: lightcoral;
+background-image: url(../image/bg02.jpg);
+background-size: cover;
+background-position: center;
+position: relative;
+}
+
+#pattern{
+width: 500px;
+height: 200px;
+background-color: crimson;
+color: black;
+background-image: url(../image/bmkg.jpg);
+border-radius: 20px;
+background-repeat: no-repeat;
+
+}
+
+#biking h2{
+    text-align: center;
+    padding-top: 80px;
+}
